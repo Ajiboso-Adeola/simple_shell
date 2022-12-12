@@ -11,8 +11,8 @@
   <li><a href=""> Compilation </li>
   <li><a href=""> Testing </li>
   <li><a href=""> Task </li>
-</ul>
-<h2>Installation</h2>
+</ul><hr>
+<h3>Installation</h3>
 ```
 git clone 
 ```
