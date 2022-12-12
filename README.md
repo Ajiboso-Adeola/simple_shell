@@ -13,6 +13,3 @@
   <li><a href=""> Task </li>
 </ul><hr>
 <h3>Installation</h3>
-```
-git clone 
-```
